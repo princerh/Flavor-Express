@@ -1,0 +1,106 @@
+[
+      {
+        "recipe_id": 1,
+        "recipe_name": "Grilled Salmon",
+        "recipe_image": "/assets/Grilled Salmon with Asparagus.jpg",
+        "short_description": "A healthy and delicious grilled salmon dish served with roasted asparagus.",
+        "ingredients": [
+          "4 salmon fillets",
+          "1 bunch asparagus",
+          "2 tbsp olive oil",
+          "2 cloves garlic, minced",
+          "1 lemon, sliced",
+          "Salt and pepper to taste"
+        ],
+        "preparing_time": 25,
+        "calories": 280
+      },
+
+      {
+        "recipe_id": 2,
+        "recipe_name": "Mushroom Risotto",
+        "recipe_image": "/assets/Mushroom Risotto.jpg",
+        "short_description": "Creamy and flavorful mushroom risotto cooked to perfection.",
+        "ingredients": [
+          "1 cup Arborio rice",
+          "200 g mushrooms, sliced",
+          "1 onion, finely chopped",
+          "3 cups vegetable broth",
+          "1/2 cup white wine",
+          "1/4 cup grated Parmesan cheese"
+        ],
+        "preparing_time": 40,
+        "calories": 320
+      },
+
+      {
+        "recipe_id": 3,
+        "recipe_name": "Caprese Salad",
+        "recipe_image": "assets/Caprese Salad.jpeg",
+        "short_description": "A classic Italian salad made with fresh mozzarella, basil, and balsamic glaze.",
+        "ingredients": [
+          "2 large tomatoes",
+          "200 g fresh mozzarella cheese",
+          "1/2 cup fresh basil leaves",
+          "2 tbsp balsamic glaze",
+          "Salt and pepper to taste"
+        ],
+        "preparing_time": 15,
+        "calories": 180
+      },
+
+      {
+        "recipe_id": 4,
+        "recipe_name": "Chicken Stir-Fry",
+        "recipe_image": "/assets/Chicken Stir-Fry.jpeg",
+        "short_description": "A quick chicken stir-fry loaded with colorful vegetables and savory sauce.",
+        "ingredients": [
+          "2 chicken breasts, sliced",
+          "1 bell pepper, sliced",
+          "1 onion, sliced",
+          "1 cup broccoli florets",
+          "3 tbsp soy sauce",
+          "2 tbsp oyster sauce",
+          "2 cloves garlic, minced"
+        ],
+        "preparing_time": 30,
+        "calories": 250
+      },
+
+      {
+        "recipe_id": 5,
+        "recipe_name": "Vegetable Curry",
+        "recipe_image": "/assets/Vegetable Curry.jpeg",
+        "short_description": "A hearty and aromatic vegetable curry made with a blend of spices and coconut milk.",
+        "ingredients": [
+          "2 potatoes, diced",
+          "1 carrot, sliced",
+          "1 bell pepper, diced",
+          "1 cup green peas",
+          "1 onion, finely chopped",
+          "2 cloves garlic, minced",
+          "1 can coconut milk",
+          "2 tbsp curry powder"
+        ],
+        "preparing_time": 35,
+        "calories": 300
+      },
+
+      {
+        "recipe_id": 6,
+        "recipe_name": "Chocolate Banana Smoothie",
+        "recipe_image": "/assets/Chocolate Banana Smoothie.jpeg",
+        "short_description": "A creamy and indulgent smoothie made with ripe bananas and rich chocolate.",
+        "ingredients": [
+          "2 ripe bananas",
+          "1 cup milk",
+          "2 tbsp cocoa powder",
+          "1 tbsp honey",
+          "1/2 cup Greek yogurt",
+          "Ice cubes (optional)"
+        ],
+        "preparing_time": 10,
+        "calories": 220
+      }
+]
+  
